@@ -46,4 +46,4 @@ vvp system_sim.vvp
 ```
 
 The testbench writes matrix input values through the MMIO interface, starts the accelerator, polls the done register, and reads back result 0.
-![Success Waveform](docs/waveform_success.png)
+![Success Waveform](docs/success_waveform.png)
